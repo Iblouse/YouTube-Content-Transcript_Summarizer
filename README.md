@@ -1,8 +1,3 @@
-# YouTube-Content-Transcript_Summarizer
-Here is a `README.md` file for your GitHub repository based on the provided Streamlit app code and the `requirements.txt` file. This README includes sections for a project overview, setup instructions, usage, and contribution guidelines.
-
----
-
 # YouTube Content Transcript Summarizer App
 
 Welcome to the YouTube Content Transcript Summarizer App! This application allows you to extract transcripts from YouTube videos and summarize their content using Google's Generative AI. The app is built using Streamlit and makes use of the YouTube Transcript API and Google Generative AI for content summarization.
