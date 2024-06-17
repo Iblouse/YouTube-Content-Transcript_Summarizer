@@ -14,9 +14,6 @@ Welcome to the YouTube Content Transcript Summarizer App! This application allow
 - [Installation](#installation)
 - [Usage](#usage)
 - [Project Structure](#project-structure)
-- [Contributing](#contributing)
-- [License](#license)
-- [Acknowledgements](#acknowledgements)
 
 ## Overview
 
