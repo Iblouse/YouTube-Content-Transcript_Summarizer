@@ -33,7 +33,7 @@ The YouTube Content Transcript Summarizer App is designed to help users quickly 
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/your-username/youtube-content-summarizer.git
+    git clone https://github.com/iblouse/youtube-content-summarizer.git
     cd youtube-content-summarizer
     ```
 
