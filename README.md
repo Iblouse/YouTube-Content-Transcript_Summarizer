@@ -33,8 +33,8 @@ The YouTube Content Transcript Summarizer App is designed to help users quickly 
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/iblouse/youtube-content-summarizer.git
-    cd youtube-content-summarizer
+    git clone https://github.com/Iblouse/YouTube-Content-Transcript_Summarizer.git
+    cd YouTube-Content-Transcript_Summarizer
     ```
 
 2. Create and activate a virtual environment:
@@ -79,7 +79,7 @@ The YouTube Content Transcript Summarizer App is designed to help users quickly 
 ## Project Structure
 
 ```
-youtube-content-summarizer/
+YouTube-Content-Transcript_Summarizer/
 │
 ├── .env                # Environment variables
 ├── requirements.txt    # Required Python packages
