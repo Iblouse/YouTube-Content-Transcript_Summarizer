@@ -56,7 +56,7 @@ def get_gemini_response(transcript_text, prompt):
     str: Summary of the transcript.
     """
     try:
-        # Create an instance of the GenerativeModel
+        # Create an instance of the GenerativeModel | you experiment with other models 
         model = genai.GenerativeModel('gemini-pro')
         
         # Generate content based on the prompt and transcript text
